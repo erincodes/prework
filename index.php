@@ -6,7 +6,7 @@
 	</head>
 		<body>
 		<p>
-			The prework is done!
+			The prework is done! Now if only I can commit it to Git.
 		</p>
 	</body>
 </html>
