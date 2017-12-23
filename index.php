@@ -1,12 +1,7 @@
-<!DOCTPE hmtl>
+<!DOCTYPE html>
 <html>
 	<head>
-		<title>
-			I completed the prework!</title>
+		<title>Erin completed the prework.</title>
 	</head>
-		<body>
-		<p>
-			The prework is done! Now if only I can commit it to GitHub.
-		</p>
-	</body>
+	<body>The prework is done, yay! </body>
 </html>
